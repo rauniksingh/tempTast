@@ -1,0 +1,14 @@
+{
+    "server": {
+       "baseUrl": "http://localhost",
+       "port": 8014
+    },
+    "database": {
+       "MongoDB": {
+          "DatabaseName": "task_prod"
+       }  
+    }
+ }
+ 
+ 
+ 

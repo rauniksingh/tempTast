@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 1
+    },
+    "auditLog": "/home/raunik/studyMaterial/sampleTask/Assignment_1/logs/.6ce50bc324caefb5757d96c00d75f92eb6d69fb2-audit.json",
+    "files": [
+        {
+            "date": 1579631787627,
+            "name": "/home/raunik/studyMaterial/sampleTask/Assignment_1/logs/2020-01-22-combined.log",
+            "hash": "67ba2033057d3ce5cc1a4debcb177a14"
+        }
+    ]
+}
